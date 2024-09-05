@@ -9,7 +9,7 @@ const reverseString = function(string) {
     
     };
     
-    console.log(reverseString("john"));
+    console.log(reverseString("john")); 
 
 // Do not edit below this line
 module.exports = reverseString;
